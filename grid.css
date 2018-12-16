@@ -136,7 +136,7 @@ h3{
 .title{
     position: absolute;
     max-width: 725px;
-    background-color:  rgba(237,213,140,0.66);
+    background-color:  rgba(237,213,140,0);
     height: 100vh;
     
 }
